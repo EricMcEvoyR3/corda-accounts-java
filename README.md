@@ -3,17 +3,8 @@
   
 
 
-First exercises are a basic example to create, issue and perform a DvP (Delivery vs Payment) of an Evolvable NonFungible token in Corda utilizing the TokenSDK. 
+Java Examples to create, issue and perform a DvP (Delivery vs Payment) of an Evolvable NonFungible token in Corda utilizing the TokenSDK. 
 
-Second exercises are for utilizing accounts for transactions with Tokens.
-
-# Pre-Requisites
-
-See https://docs.corda.net/getting-set-up.html.
-
-# Materials
-
-All slide decks and Corda Design Language (CDL) diagrams can be found in the `resources` folder
 
 # Usage
 
